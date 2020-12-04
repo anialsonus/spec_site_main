@@ -51,6 +51,14 @@ Project Bundle
 TBD     `adcm_cluster_platform_security <https://spec.adsw.io/adcm_cluster_platform_security/>`_  
 ======= ==========================================================================================
 
+ADCM Cluster Second Storage (ADSS)
+^^^^^^^^^^^^^^^^^^^^^^^^
+======= ==========================================================================================
+Project Bundle
+======= ==========================================================================================
+TBD     `adcm_cluster_second_storage <https://spec.adsw.io/adcm_cluster_second_storage/>`_  
+======= ==========================================================================================
+
 TBD
 
 How to write specs
