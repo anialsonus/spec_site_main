@@ -59,7 +59,14 @@ Project Bundle
 TBD     `adcm_cluster_second_storage <https://spec.adsw.io/adcm_cluster_second_storage/>`_  
 ======= ==========================================================================================
 
-TBD
+Arenadata Streaming bundle for ADCM (ADS)
+^^^^^^^^^^^^^^^^^^^^^^^^
+======= ==========================================================================================
+Project Bundle
+======= ==========================================================================================
+TBD     `adcm_cluster_ads <https://spec.adsw.io/adcm_cluster_ads/>`_
+======= ==========================================================================================
+
 
 How to write specs
 ------------------
@@ -81,7 +88,7 @@ Quick start
   docker run -it --rm -v $(pwd):/spec -p 9000:9000 ci.arenadata.io/sphinx-autobuild:latest
 
 * open browser at `<http://127.0.0.1:9000>`_
-* open index.rst with your favorit editor ( vim :)  and start to edit
+* open index.rst with your favorite editor ( vim :)  and start to edit
 * see changes in browser
 
 More information about syntax in `official docs <https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html#literal-blocks>`_
