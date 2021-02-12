@@ -94,3 +94,5 @@ Quick start
 More information about syntax in `official docs <https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html#literal-blocks>`_
 
 More information about autobuild image in `sphinx-autobuild readme <https://github.com/arenadata/sphinx_builder>`_
+
+.. note:: ``sphinx-versioning`` uses ``sphinx==1.4.8`` to build specs
